@@ -1,0 +1,6 @@
+Gantt Chart:
+| P1 | P2 | P3 | P4 | P1 | P2 | P3 | P4 | P1 | P1 | P1 | P2 | P2 | P2 | P3 | P4 | P3 | P3 | P3 | P3 | P4 | P4 | P4 | P4 | P4 | P4 
+
+Average turn-around time: 11.00
+Average waiting time: 7.25
+
